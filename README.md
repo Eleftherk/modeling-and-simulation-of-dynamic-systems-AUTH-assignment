@@ -1,0 +1,1 @@
+Repository for the "Modeling and Simulation of Dynamic Systems" course at Aristotle University of Thessaloniki (AUTH) in 8th semester (2023). This repository contains the files and documentation for the assignment made in this subject.
